@@ -8,10 +8,10 @@
     "src"
   ],
   "repository": {
-    "url": "https://github.com/Klerith/do-product-card",
+    "url": "https://github.com/MizaelpV/product-card-npm",
     "type": "git"
   },
-  "homepage": "https://fernando-herrera.com",
+  "homepage": "https://mizaelpvielma.com",
   "engines": {
     "node": ">=10"
   },
@@ -40,7 +40,7 @@
     "trailingComma": "es5"
   },
   "name": "do-product-card",
-  "author": "Fernando Herrera",
+  "author": "Mizael Paredes",
   "module": "dist/do-product-card.esm.js",
   "size-limit": [
     {
@@ -76,8 +76,8 @@
   "keywords": [
     "product",
     "card",
-    "fernando",
-    "herrera"
+    "Mizael",
+    "Paredes"
   ],
   "dependencies": {
     
